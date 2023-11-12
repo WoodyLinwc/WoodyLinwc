@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I also enjoy photography.** [https://woodylinwc.github.io/photo](https://woodylinwc.github.io/photo)
 
-<img alt="coding" width="400" src="https://techguide.wiki/homepage/senior-software-engineer_wy82tyqym.gif">
+<img alt="coding" width="1000" src="https://techguide.wiki/homepage/senior-software-engineer_wy82tyqym.gif">
 
 
 <h3 align="left">Connect with me:</h3>
