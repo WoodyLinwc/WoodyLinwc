@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Spring Boot, ReactJS, Django**
 
-- 📫 How to reach me **wancheng.lin001@gmail.com**
+- 📫 How to reach me **wancheng.lin001@gmail.com** 
 
-- 📄 Know about my experiences [https://woodylinwc.github.io/pdf/WoodyLinResume.pdf](https://woodylinwc.github.io/pdf/WoodyLinResume.pdf)
+- 📄 Know about my experiences **<a href="https://woodylinwc.github.io/pdf/WoodyLinResume.pdf" target="_blank">https://woodylinwc.github.io/pdf/WoodyLinResume.pdfo</a>**
 
-- ⚡ Fun fact **I also enjoy photography.** [https://woodylinwc.github.io/photo](https://woodylinwc.github.io/photo)
+- ⚡ Fun fact **I also enjoy photography <a href="https://woodylinwc.github.io/photo" target="_blank">https://woodylinwc.github.io/photo</a>**
 
 <img alt="coding" width="1000" src="https://techguide.wiki/homepage/senior-software-engineer_wy82tyqym.gif">
 
