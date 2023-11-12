@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Woody(Wancheng) Lin</h1>
 <h3 align="center">A passionate college student interested in Computer Science.</h3>
-<img align="right" alt="coding" width="400" src="https://techguide.wiki/homepage/senior-software-engineer_wy82tyqym.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodylinwc&label=Profile%20views&color=0e75b6&style=flat" alt="woodylinwc" /> </p> -->
 
@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://woodylinwc.github.io/pdf/WoodyLinResume.pdf](https://woodylinwc.github.io/pdf/WoodyLinResume.pdf)
 
 - ⚡ Fun fact **I also enjoy photography.** [https://woodylinwc.github.io/photo](https://woodylinwc.github.io/photo)
+
+<img alt="coding" width="400" src="https://techguide.wiki/homepage/senior-software-engineer_wy82tyqym.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
