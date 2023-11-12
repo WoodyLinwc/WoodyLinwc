@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Woody(Wancheng) Lin</h1>
 <h3 align="center">A passionate college student interested in Computer Science.</h3>
-<img align="bottom" alt="coding" width="400" src="https://techguide.wiki/homepage/senior-software-engineer_wy82tyqym.gif">
+<img align="right" alt="coding" width="400" src="https://techguide.wiki/homepage/senior-software-engineer_wy82tyqym.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=woodylinwc&label=Profile%20views&color=0e75b6&style=flat" alt="woodylinwc" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodylinwc&label=Profile%20views&color=0e75b6&style=flat" alt="woodylinwc" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woodylinwc" alt="woodylinwc" /></a> </p> -->
 
