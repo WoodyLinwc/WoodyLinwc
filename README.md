@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences **[https://woodylinwc.github.io/pdf/WoodyLinResume.pdf](https://woodylinwc.github.io/pdf/WoodyLinResume.pdf)**
 
-- ⚡ Fun fact **I also enjoy photography [https://woodylinwc.github.io/photo](https://woodylinwc.github.io/photo)**
+- ⚡ Fun fact **I also enjoy photography! [https://woodylinwc.github.io/photo](https://woodylinwc.github.io/photo)**
 
 <img alt="coding" width="1000" src="./codinggif.gif">
 
