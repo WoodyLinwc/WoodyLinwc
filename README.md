@@ -27,7 +27,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 📫 How to reach me **wancheng.lin001@gmail.com**
 
-- 🌐 My personal website **[https://woodylinwc.github.io/](https://woodylinwc.github.io/)**
+- 🌐 My personal website **[https://woodylinwc.github.io](https://woodylinwc.github.io)**
 
 - 📄 Know about my experiences **[https://woodylinwc.github.io/pdf/WoodyLinResume.pdf](https://woodylinwc.github.io/pdf/WoodyLinResume.pdf)**
 
