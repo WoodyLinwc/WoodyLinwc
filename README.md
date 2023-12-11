@@ -25,6 +25,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🌱 I’m currently learning **Spring Boot, ReactJS, Django, Swift**
 
+- 🔭 I’m currently working on an iOS application developed in **Swift**
+
 - 📫 How to reach me **wancheng.lin001@gmail.com**
 
 - 🌐 My personal website **[https://woodylinwc.github.io](https://woodylinwc.github.io)**
