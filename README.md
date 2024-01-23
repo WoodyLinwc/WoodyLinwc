@@ -23,9 +23,9 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woodylinwc" alt="woodylinwc" /></a> </p> -->
 
-- 🌱 I’m currently learning **Spring Boot, ReactJS, Django, Swift**
+- 🌱 I’m currently learning **React Native**
 
-- 🔭 I’m currently working on an iOS application developed in **Swift**
+- 🔭 I’m currently working on an iOS application developed in **React Native**
 
 - 📫 How to reach me **wancheng.lin001@gmail.com**
 
