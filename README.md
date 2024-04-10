@@ -27,6 +27,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🔭 I’m currently working on getting an **AWS Cloud Practitioner** certificate.
 
+- 📖 I'm also a contributor to an open-source community on **[React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file)**
+
 - 📫 How to reach me **wancheng.lin001@gmail.com**
 
 - 🌐 My personal website **[https://woodylinwc.github.io](https://woodylinwc.github.io)**
