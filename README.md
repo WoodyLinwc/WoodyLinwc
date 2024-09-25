@@ -25,7 +25,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🌱 I’m currently learning **AWS Cloud**, **NestJS**
 
-- 🔭 I’m currently working on getting an **AWS Cloud Practitioner** certificate.
+- 🔭 I’m currently working on getting an **AWS Certified Developer – Associate** (passed my cloud practitioner exam) certificate.
 
 - 📖 I'm also a project contributor to an **open-source** community on **[React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file)**
 
