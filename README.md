@@ -25,7 +25,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🌱 I’m currently learning **AWS Cloud**, **React Native**
 
-- 🔭 I’m currently working on getting an **AWS Certified Developer – Associate** certificate (passed my cloud practitioner exam) and my first mobile application on **Google Play**.
+- 🔭 I’m currently working on getting an **AWS Certified Developer – Associate** certificate (passed my cloud practitioner exam).
 
 - 📖 I'm also a project contributor to an **open-source** community on **[React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file)**
 
