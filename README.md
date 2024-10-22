@@ -29,7 +29,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 📖 I'm also a project contributor to an **open-source** community on **[React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file)**
 
-- 🎒 I published my first app on the **Google Play** store **[Flashcard Simple](https://play.google.com/store/apps/details?id=com.woodylinwc.FlashcardApp)**
+- 🎒 I published my first app **[Flashcard Simple](https://play.google.com/store/apps/details?id=com.woodylinwc.FlashcardApp)** on the **Google Play** store.
 
 - 📫 How to reach me **wancheng.lin001@gmail.com**
 
