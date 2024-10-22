@@ -17,17 +17,19 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 <h1 align="center">Hi 👋, I'm Woody(Wancheng) Lin</h1>
-<h3 align="center">A SDE intern @Twygs.io.</h3>
+<h3 align="center">A SDE intern @Twygs.io | Android Mobile Application Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodylinwc&label=Profile%20views&color=0e75b6&style=flat" alt="woodylinwc" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woodylinwc" alt="woodylinwc" /></a> </p> -->
 
-- 🌱 I’m currently learning **AWS Cloud**, **NestJS**
+- 🌱 I’m currently learning **AWS Cloud**, **React Native**
 
 - 🔭 I’m currently working on getting an **AWS Certified Developer – Associate** certificate (passed my cloud practitioner exam) and my first mobile application on **Google Play**.
 
 - 📖 I'm also a project contributor to an **open-source** community on **[React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file)**
+
+- 🎒 I published my first app on the **Google Play** store **[Flashcard Simple](https://play.google.com/store/apps/details?id=com.woodylinwc.FlashcardApp)**
 
 - 📫 How to reach me **wancheng.lin001@gmail.com**
 
