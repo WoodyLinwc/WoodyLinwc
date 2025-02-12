@@ -17,13 +17,13 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 <h1 align="center">Hi 👋, I'm Woody(Wancheng) Lin</h1>
-<h3 align="center">A SDE intern @Twygs.io | Android Mobile Application Developer</h3>
+<h3 align="center">SAS Enthusiast | Android Mobile Application Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodylinwc&label=Profile%20views&color=0e75b6&style=flat" alt="woodylinwc" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woodylinwc" alt="woodylinwc" /></a> </p> -->
 
-- 🌱 I’m currently learning **AWS Cloud**, **React Native**
+- 🌱 I’m currently learning **SAS Language**, **React Native**
 
 - 🔭 I’m currently working on getting an **AWS Certified Developer – Associate** certificate (passed my cloud practitioner exam).
 
