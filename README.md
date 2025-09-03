@@ -33,11 +33,11 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 📫 How to reach me **woody.lin001@gmail.com**
 
-- 🌐 My personal website **[https://woodylinwc.github.io](https://woodylinwc.github.io)**
+- 🌐 My personal website **[https://woody-lin-personal.vercel.app/](https://woody-lin-personal.vercel.app/)**
 
-- 📄 Know about my experiences **[https://woodylinwc.github.io/pdf/WoodyLinResume.pdf](https://woodylinwc.github.io/pdf/WoodyLinResume.pdf)**
+<!-- - 📄 Know about my experiences **[https://woodylinwc.github.io/pdf/WoodyLinResume.pdf](https://woodylinwc.github.io/pdf/WoodyLinResume.pdf)** -->
 
-- ⚡ Fun fact **I also enjoy photography! [https://woodylinwc.github.io/photo](https://woodylinwc.github.io/photo)**
+- ⚡ Fun fact **I also enjoy photography! [https://woody-lin-personal.vercel.app/photography](https://woody-lin-personal.vercel.app/photography)**
 
 <img alt="coding" width="1000" src="./codinggif.gif">
 
