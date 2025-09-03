@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
-<h1 align="center">Hi 👋, I'm Woody(Wancheng) Lin</h1>
-<h3 align="center"> Full-Stack | SAS Programmer | Android Mobile Application Developer</h3>
+<h1 align="center">Hi 👋, I'm Woody Lin</h1>
+<h3 align="center"> Full-Stack | SAS Programmer | Mobile Application Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodylinwc&label=Profile%20views&color=0e75b6&style=flat" alt="woodylinwc" /> </p> -->
 
