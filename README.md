@@ -31,7 +31,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🎒 I published my first app **[Flashcard Simple](https://play.google.com/store/apps/details?id=com.woodylinwc.FlashcardApp)** on the **Google Play** store.
 
-- 📫 How to reach me **wancheng.lin001@gmail.com**
+- 📫 How to reach me **woody.lin001@gmail.com**
 
 - 🌐 My personal website **[https://woodylinwc.github.io](https://woodylinwc.github.io)**
 
