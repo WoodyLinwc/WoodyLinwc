@@ -23,7 +23,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woodylinwc" alt="woodylinwc" /></a> </p> -->
 
-- 🌱 I'm a **React** and **React Native** expert with 5+ years of experience
+- 🌱 I'm a **React** and **React Native** developer with 5+ years of experience
 
 - 🔭 I’m currently working on getting an **AWS Certified Developer – Associate** certificate (passed my cloud practitioner exam).
 
