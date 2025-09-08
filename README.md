@@ -23,7 +23,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woodylinwc" alt="woodylinwc" /></a> </p> -->
 
-- 🌱 I’m currently learning **SAS Language**, **React Native**
+- 🌱 I'm a **React** and **React Native** expert with 5+ years of experience
 
 - 🔭 I’m currently working on getting an **AWS Certified Developer – Associate** certificate (passed my cloud practitioner exam).
 
@@ -41,11 +41,12 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <img alt="coding" width="1000" src="./codinggif.gif">
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/woody-lin-32ab48161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="woody-lin-32ab48161" height="30" width="40" /></a>
 </p>
+-->
 
 <h3 align="left">Languages:</h3>
 <p align="left">
