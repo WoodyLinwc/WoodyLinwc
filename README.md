@@ -37,7 +37,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <!-- - 📄 Know about my experiences **[https://woodylinwc.github.io/pdf/WoodyLinResume.pdf](https://woodylinwc.github.io/pdf/WoodyLinResume.pdf)** -->
 
-- ⚡ Fun fact **I also enjoy photography! [https://woody-lin-personal.vercel.app/photography](https://woody-lin-personal.vercel.app/photography)** 
+<!-- - ⚡ Fun fact **I also enjoy photography! [https://woody-lin-personal.vercel.app/photography](https://woody-lin-personal.vercel.app/photography)** -->
 
 <img alt="coding" width="1000" src="./codinggif.gif">
 
