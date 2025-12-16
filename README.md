@@ -31,6 +31,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🎒 I published my first app **[Flashcard Simple](https://play.google.com/store/apps/details?id=com.woodylinwc.FlashcardApp)** on the **Google Play** store.
 
+- 🚲 I also have several mini online projects, **[Mini Solar System](https://woody-lin-mini-solar-system.vercel.app/), [Dice Throw Simulator](https://woody-lin-dice-throw-simulator.vercel.app/), [Texas Hold'em Simulator](https://woody-lin-texas-hold-em-simulator.vercel.app/)**, and more are comming up!! 
+
 - 📫 How to reach me **woody.lin001@gmail.com**
 
 <!-- - 🌐 My personal website **[https://woody-lin-personal.vercel.app/](https://woody-lin-personal.vercel.app/)** -->
