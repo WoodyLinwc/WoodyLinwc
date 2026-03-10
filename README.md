@@ -17,7 +17,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 <h1 align="center">Hi 👋, I'm Woody Lin</h1>
-<h3 align="center"> Full-Stack | SAS Programmer | Mobile Application Developer</h3>
+<h3 align="center"> Biotech Technician | SAS Programmer | Mobile Application Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodylinwc&label=Profile%20views&color=0e75b6&style=flat" alt="woodylinwc" /> </p> -->
 
@@ -25,7 +25,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🌱 I'm a **React** and **React Native** developer.
 
-- 🔭 Biotech Technician
+<!-- 🔭 -->
 
 - 📖 I'm also a project contributor to an **open-source** community on **[React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file)**
 
