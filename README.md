@@ -25,11 +25,11 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🌱 I'm a **React** and **React Native** developer.
 
-<!-- 🔭 -->
+- 🔭 Biotechnology **@[Lonza](https://www.lonza.com/about-us)**.
 
-- 📖 I'm also a project contributor to an **open-source** community on **[React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file)**
+- 📖 I'm also a project contributor to an **open-source** community on **[React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file)**.
 
-- 🎒 I published my first app **[Flashcard Simple](https://play.google.com/store/apps/details?id=com.woodylinwc.FlashcardApp)** on the **Google Play** store.
+- 🎒 I published my first app **[Flashcard Simple](https://play.google.com/store/apps/details?id=com.woodylinwc.FlashcardApp)** and game **[Pixel Fish Miner](https://play.google.com/store/apps/details?id=com.woodylin.pixelfishminer&hl=en_US)** on the **Google Play** store.
 
 - 🚲 I also have several mini online projects, **[Mini Solar System](https://woody-lin-mini-solar-system.vercel.app/), [Dice Throw Simulator](https://woody-lin-dice-throw-simulator.vercel.app/), [Texas Hold'em Simulator](https://woody-lin-texas-hold-em-simulator.vercel.app/)**, and more are comming up!! 
 
