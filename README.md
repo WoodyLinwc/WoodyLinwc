@@ -25,7 +25,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🌱 I'm a **React** and **React Native** developer.
 
-- 🔭 Biotechnology **@[Lonza](https://www.lonza.com/about-us)**.
+- 🔭 Biotechnology **@[Lonza](https://www.lonza.com/about-us/our-locations)**.
 
 - 📖 I'm also a project contributor to an **open-source** community on **[React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file)**.
 
