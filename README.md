@@ -33,7 +33,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🚲 I also have several mini online projects, **[Mini Solar System](https://woody-lin-mini-solar-system.vercel.app/), [Dice Throw Simulator](https://woody-lin-dice-throw-simulator.vercel.app/), [Texas Hold'em Simulator](https://woody-lin-texas-hold-em-simulator.vercel.app/)**, and more are comming up!! 
 
-- 📫 How to reach me **woody.lin001@gmail.com**
+- 📫 How to reach me **woody.lin001@gmail.com** and **[personal portfolio website](https://woody-lin-personal.vercel.app/)**
 
 <!-- - 🌐 My personal website **[https://woody-lin-personal.vercel.app/](https://woody-lin-personal.vercel.app/)** -->
 
